@@ -1,0 +1,5 @@
+/Users/aaa/Desktop/Prog edu/C# lessons/test 1 hw/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/test 1 hw/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Prog edu/C# lessons/test 1 hw/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/test 1 hw/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/aaa/Desktop/Prog edu/C# lessons/test 1 hw/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
